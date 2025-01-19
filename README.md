@@ -1,5 +1,4 @@
 - 👋 Hi, my name is Tusha Palta
 - 👀 I’m interested in Bioinformatics and data science
 - 🌱 I’m currently pursuing a Msc in artificial intelligence in bioscience
-- 💞️ I’m looking to collaborate on beginner python and R projects
 - 📫 How to reach me: tusha.palta@gmail.com
